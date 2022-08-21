@@ -1,4 +1,4 @@
-<h1 align="center">Panic Alarm and Detection using PIR Sensor</h1>
+<h1 align="center">Social Distancing Sensor and Alarm</h1>
 <h1 align="center">Semester IV Mini Project 2021</h1>
 
 <h3 align="left">Introduction:</h3>
