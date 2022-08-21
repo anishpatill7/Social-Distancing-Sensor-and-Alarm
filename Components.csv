@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"U2",1," Timer"
+"PIEZO2",1," Piezo"
+"R5",1,"null kΩ Resistor"
+"R6",1,"1 kΩ Resistor"
+"C3",1,"10 pF Capacitor"
+"R7",1,"100 kΩ Resistor"
+"R8",1,"22 kΩ Resistor"
+"C4",1,"10 uF Capacitor"
+"D4",1,"Red LED"
+"PIR2",1,"-20.4655151081559 , -194.5036143799449 , -170.55445122464437 , -212.0222210488946  PIR Sensor"
+"Bat14",1,"4 batteries, AA, no 1.5V Battery"
+"Meter1",1,"Voltage Multimeter"
